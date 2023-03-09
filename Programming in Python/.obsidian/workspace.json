@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "acaf3ea702da0271",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e268d4990957f89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a903b75832029592",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neat tricks about python/Variable Scope.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5079b25234c8e997",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neat tricks about python/What are Data Structures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4d29872942eb68d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7be3fb020b010142",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7833817db81e742e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3abd5e7e9feb9299",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7015ff63b74c2f3d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "679ed4ebc1a55caf",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f4dc032153fa1fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "070fda8c04511a35",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Neat tricks about python/What are Data Structures.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "425725718ea957ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Neat tricks about python/What are Data Structures.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c6e32375149c30c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "30dde85ee89cff56",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Neat tricks about python/What are Data Structures.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5079b25234c8e997",
+  "lastOpenFiles": [
+    "Neat tricks about python/Variable Scope.md"
+  ]
+}
